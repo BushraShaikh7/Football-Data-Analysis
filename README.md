@@ -22,7 +22,4 @@ The project includes:
 
 - `BCFC (3).ipynb` – The main notebook containing all the analysis
 - `Data Insights Task.xlsx` – Dataset used (must be placed in the same folder as the notebook)
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/your-username/your-repo-name.git
-   cd your-repo-name
+
